@@ -13,7 +13,7 @@ class CppStudio {
     {
         cout << s << "\n";
     }
-    void setRatio(int U_a, int U_b, int U_c) // установка даты в формате дд.мм.гг
+    void setRatio(int U_a, int U_b, int U_c) 
     {
         a = U_a; // инициализация a
         b = U_b; // инициализация b
